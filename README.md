@@ -31,4 +31,4 @@ Näide hosts failist, mis keelab liikluse lemmiklehtedele.
 
 Tekita analoogne **hosts** fail ja pane see kataloogi: C:\Windows\System32\drivers\etc\
 
-Kogu ülejäänud siinse koodi ja ikoonid võid ka samasse kohta visata.
+Kogu ülejäänud siinse koodi ja ikoonid võid ka samasse kohta visata. Ja link siis Desktopile, mis selle VBS asja käima tõmbab.
